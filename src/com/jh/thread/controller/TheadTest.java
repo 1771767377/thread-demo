@@ -1,4 +1,4 @@
-package com.jh.controller;
+package com.jh.thread.controller;
 
 public class TheadTest {
 

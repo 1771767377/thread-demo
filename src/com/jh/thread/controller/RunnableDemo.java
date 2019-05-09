@@ -1,4 +1,4 @@
-package com.jh.controller;
+package com.jh.thread.controller;
 
 /**
  *  实现Runnable 接口来创建线程

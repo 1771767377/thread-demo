@@ -1,4 +1,4 @@
-package com.jh.controller;
+package com.jh.thread.controller;
 
 /**
  * 继承Thread 类创建线程
