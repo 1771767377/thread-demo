@@ -9,11 +9,11 @@ public class TheadTest {
 
         RunnableDemo R2 = new RunnableDemo("Thread 2");
         R2.start();*/
-        ThreadDemo R3 = new ThreadDemo("Thread 1");
-        R3.start();
+        new ThreadDemo("R3 ").start();
 
-        ThreadDemo R4 = new ThreadDemo("Thread 2");
-        R4.start();
+        new ThreadDemo("R2 ").start();
+
+        new ThreadDemo("R1 ").start();
 
     }
 
